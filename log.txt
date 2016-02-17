@@ -1,0 +1,12 @@
+commit eb86c575b1890d80efc7fbb1f9ec29540f724f71
+Author: Anzhelika Zhyvotova <azhyvotova@AZs-MacBook-Pro.local>
+Date:   Wed Feb 17 21:14:58 2016 +0200
+
+    edited test.txt file
+
+commit 1e9e47f0e6d320f22fc91e07d317a68eeb1c71bf
+Author: Anzhelika Zhyvotova <azhyvotova@AZs-MacBook-Pro.local>
+Date:   Wed Feb 17 20:50:58 2016 +0200
+
+    added two files
+
